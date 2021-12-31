@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+:root {
+  --cinza: rgb(243, 243, 243);
+  --branco: #ffffff;
+}
+
+body {
+  background-color: var(--cinza);
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+  padding: 0;
+  width: 100%;
+}
+
+.instagram-wrapper {
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  justify-content: start;
+  width: 60%;
+}
+
+.instagram-phone {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+
+.instagram-phone img {
+  height: 50rem;
+}
+
+.instagram-continue {
+  align-items: center; /* horizontal */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around; /* vertical */
+  min-height: 34rem;
+  width: 50%;
+}
+
+.grupo {
+  align-items: center;
+  background-color: var(--branco);
+  border: 1px solid lightgray;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1.3rem 0;
+  width: 100%;
+}
+
+.grupo:nth-child(1) {
+  min-height: 19rem;
+}
+
+.instagram-logo {
+  height: 3rem;
+}
+
+.foto-perfil {
+  align-items: center;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.foto-perfil img {
+  height: 9rem; /* a instrutora colocou 6rem */
+}
