@@ -8,8 +8,10 @@
 }
 
 :root {
-  --cinza: rgb(243, 243, 243);
+  --azul: #0095f6;
   --branco: #ffffff;
+  --cinza: rgb(243, 243, 243);
+  --cinza-texto: rgb(160, 160, 160);
 }
 
 body {
@@ -38,7 +40,7 @@ body {
 }
 
 .instagram-phone img {
-  height: 50rem;
+  height: 45rem;
 }
 
 .instagram-continue {
@@ -78,5 +80,96 @@ body {
 }
 
 .foto-perfil img {
-  height: 9rem; /* a instrutora colocou 6rem */
+  height: 6rem;
+}
+
+.instagram-login {
+  background-color: var(--azul);
+  border-radius: 4px;
+  color: var(--branco);
+  padding: 8px;
+}
+
+.instagram-logout {
+  color: var(--azul);
+  margin-top: 1rem;
+}
+
+.not-account {
+  color: var(--cinza-texto);
+}
+
+.link-blue {
+  color: var(--azul);
+}
+
+.get-the-app {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem 0;
+  width: 100%;
+}
+
+.download {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1rem;
+  width: 100%;
+}
+
+.app-download {
+  background-size: cover;
+  height: 3rem;
+  width: 10rem;
+}
+
+.app-download:nth-child(1) {
+  background-image: url('/imagens/apple-button.png');
+}
+
+.app-download:nth-child(2) {
+  background-image: url('/imagens/googleplay-button.png');
+}
+
+/* Design responsivo */
+
+@media (max-width: 1024px) {
+  .instagram-wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    background-color: var(--branco);
+  }
+
+  .instagram-wrapper {
+    width: 90%;
+  }
+
+  .instagram-phone {
+    display: none;
+  }
+
+  .instagram-continue {
+    width: 100%;
+  }
+
+  .grupo {
+    border: 1px solid transparent;
+  }
+}
+
+@media (max-width: 360px) {
+  .download {
+    flex-direction: column;
+  }
+
+  .download a {
+    margin: 10px 0;
+  }
 }
