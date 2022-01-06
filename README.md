@@ -1,7 +1,7 @@
 # dio-instagram
-Este projeto é uma das atividades encontradas no Bootcamp HTML Web Developer.
+Este projeto foi uma das atividades encontradas no Bootcamp HTML Web Developer.
 
-O objetivo desse projeto é recriar a página inicial do Instagram.
+O objetivo era recriar a página inicial do Instagram.
 
 Fiz somente quatro alterações em relação ao modelo original, feito pela professora/especialista Gabriela Pinheiro:
 
