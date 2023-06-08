@@ -1,4 +1,4 @@
-<h1>Projeto: Página de login do Instagram</h1>
+<h1>Página de login do Instagram</h1>
 
 <p>Este projeto foi uma das atividades encontradas no <strong>Bootcamp HTML Web Developer</strong>, da <strong>Digital Innovation One</strong>.</p>
 
