@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">Desafio de Projeto da Digital Innovation One</h1>
+<h1>Projeto: Página de login do Instagram</h1>
 
-<p>Este projeto foi uma das atividades encontradas no <strong>Bootcamp HTML Web Developer</strong>.</p>
+<p>Este projeto foi uma das atividades encontradas no <strong>Bootcamp HTML Web Developer</strong>, da <strong>Digital Innovation One</strong>.</p>
 
 <p>O objetivo foi recriar a página de login do Instagram conforme as orientações da instrutora Gabriela Pinheiro.</p>
 
@@ -15,8 +15,6 @@
 
 <hr>
 
-<h2 style="text-align:center;">O projeto concluído ficou assim:</h2>
-
-<br>
+<h2 style="margin-bottom: 16px;">O projeto concluído ficou assim:</h2>
 
 <img src="imagens/captura-de-tela.png" alt="Captura de Tela do projeto concluído" width="1000">
