@@ -1,20 +1,49 @@
-<h1>Página de login do Instagram</h1>
+![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-<p>Este projeto foi uma das atividades encontradas no <strong>Bootcamp HTML Web Developer</strong>, da <strong>Digital Innovation One</strong>.</p>
+# Recriação da Página de Login do Instagram
 
-<p>O objetivo foi recriar a página de login do Instagram conforme as orientações da instrutora Gabriela Pinheiro.</p>
+## 1️⃣ Apresentação
+Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
-<p>Fiz quatro alterações em relação ao modelo original.</p>
+A atividade foi conduzida pela instrutora **Gabriela Pinheiro**, que disponibilizou todo o material de referência necessário em seu repositório no GitHub.
 
-<ol>
-  <li>Usei variáveis para trabalhar com as cores.</li>
-  <li>Diminui o <code>height</code> da imagem do telefone de <code>48rem</code> para <code>45rem</code>, com o objetivo de tirar a barra de rolagem da página.</li>
-  <li>Acrescentei um media querie com <code>max-width</code> de 360px, pensando nas telas menores, como o meu velho Samsung Galaxy S3 mini &#x1F607.</li>
-  <li>Por último, incluí as imagens apple-button e googleplay-button com texto em português.</li>
-</ol> 
+## 2️⃣ Objetivo
+Recriar a página inicial de login do Instagram utilizando CSS com Flexbox. Essa abordagem é amplamente utilizada para criar layouts responsivos, permitindo alinhar e distribuir elementos de forma flexível e adaptável a diferentes tamanhos de tela.
 
-<hr>
+Com este exercício, buscou-se fortalecer conceitos como:
 
-<h2 style="margin-bottom: 16px;">O projeto concluído ficou assim:</h2>
+- Estilização dos elementos.
+- Posicionamento com Flexbox.
+- Responsividade em layouts.
 
-<img src="imagens/captura-de-tela.png" alt="Captura de Tela do projeto concluído" width="1000">
+### Principais Modificações
+
+Durante o desenvolvimento, realizei quatro alterações em relação ao modelo original:
+
+- Uso de variáveis CSS para gerenciar as cores, facilitando a manutenção do código.
+- Reduzi o tamanho da imagem do telefone (height) de <code>48rem</code> para <code>45rem</code>, eliminando a barra de rolagem indesejada.
+- Adicionei um *media query* com <code>max-width</code> de <code>360px</code>, garantindo melhor adaptação para dispositivos menores, como meu velho Samsung Galaxy S3 mini. 😇
+- Para maior acessibilidade, incluí as imagens dos botões da App Store e Google Play com texto em português.
+
+## 3️⃣ Tecnologias Utilizadas
+
+### Linguagens
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+### Ferramentas
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+## 4️⃣ Créditos
+Agradeço à instrutora Gabriela Pinheiro e à equipe da DIO por disponibilizarem este conteúdo tão enriquecedor!
+- <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
+
+## 5️⃣ Licença
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+
+### <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align:text-bottom;" /> Gostou do projeto? Deixe uma estrelinha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" style="vertical-align:text-bottom;" /></div>
