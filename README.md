@@ -16,7 +16,7 @@ Com este exercício, buscou-se fortalecer conceitos como:
 - Posicionamento com Flexbox.
 - Responsividade em layouts.
 
-### Principais Modificações
+## 3️⃣ Principais Modificações
 
 Durante o desenvolvimento, realizei quatro alterações em relação ao modelo original:
 
@@ -25,7 +25,7 @@ Durante o desenvolvimento, realizei quatro alterações em relação ao modelo o
 - Adicionei um *media query* com <code>max-width</code> de <code>360px</code>, garantindo melhor adaptação para dispositivos menores, como meu velho Samsung Galaxy S3 mini. 😇
 - Para maior acessibilidade, incluí as imagens dos botões da App Store e Google Play com texto em português.
 
-## 3️⃣ Tecnologias Utilizadas
+## 4️⃣ Tecnologias Utilizadas
 
 ### Linguagens
 <div style="display:flex;">
@@ -37,11 +37,11 @@ Durante o desenvolvimento, realizei quatro alterações em relação ao modelo o
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## 4️⃣ Créditos
+## 5️⃣ Créditos
 Agradeço à instrutora Gabriela Pinheiro e à equipe da DIO por disponibilizarem este conteúdo tão enriquecedor!
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
-## 5️⃣ Licença
+## 6️⃣ Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
