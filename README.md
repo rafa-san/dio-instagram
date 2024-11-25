@@ -2,13 +2,13 @@
 
 # Recriação da Página de Login do Instagram
 
-## 1️⃣ Apresentação
-Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
+## 1️⃣ Objetivo
+Recriar a página inicial de login do Instagram utilizando CSS com Flexbox.
+
+## 2️⃣ Descrição
+Este projeto foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
 A atividade foi conduzida pela instrutora **Gabriela Pinheiro**, que disponibilizou todo o material de referência necessário em seu repositório no GitHub.
-
-## 2️⃣ Objetivo
-Recriar a página inicial de login do Instagram utilizando CSS com Flexbox. Essa abordagem é amplamente utilizada para criar layouts responsivos, permitindo alinhar e distribuir elementos de forma flexível e adaptável a diferentes tamanhos de tela.
 
 Com este exercício, buscou-se fortalecer conceitos como:
 
@@ -16,12 +16,14 @@ Com este exercício, buscou-se fortalecer conceitos como:
 - Posicionamento com Flexbox.
 - Responsividade em layouts.
 
+O Flexbox é amplamente utilizado para criar layouts responsivos, permitindo alinhar e distribuir elementos de forma flexível e adaptável a diferentes tamanhos de tela.
+
 ## 3️⃣ Principais Modificações
 
 Durante o desenvolvimento, realizei quatro alterações em relação ao modelo original:
 
 - Uso de variáveis CSS para gerenciar as cores, facilitando a manutenção do código.
-- Reduzi o tamanho da imagem do telefone (height) de <code>48rem</code> para <code>45rem</code>, eliminando a barra de rolagem indesejada.
+- Reduzi o tamanho da imagem do telefone (height) de <code>48rem</code> para <code>43rem</code>, eliminando a barra de rolagem indesejada.
 - Adicionei um *media query* com <code>max-width</code> de <code>360px</code>, garantindo melhor adaptação para dispositivos menores, como meu velho Samsung Galaxy S3 mini. 😇
 - Para maior acessibilidade, incluí as imagens dos botões da App Store e Google Play com texto em português.
 
