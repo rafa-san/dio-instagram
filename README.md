@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/DIGITAL%20INNOVATION%20ONE-BB2649?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />&nbsp;&nbsp;&nbsp;![Badge](https://img.shields.io/badge/PROJETO-COM%20MENTORIA-FF6F61?style=for-the-badge)&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" />
 
-# HTML Web Developer | #1 Página de login do Instagram
+# HTML Web Developer #1 | Página de login do Instagram
 
 ## 1️⃣ Objetivo
 Recriar a página inicial de login do Instagram utilizando CSS com Flexbox.
